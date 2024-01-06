@@ -1,0 +1,32 @@
+.text-center{
+
+    text-align: center;
+}
+
+.bg-black{
+    background-color:rgb(206, 230, 230);
+    border-radius: 20px;
+    border: 2px solid rgb(217, 222, 222);
+    max-width: 320px;
+    height: 260px;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex {
+
+    display: flex;
+}
+    
+    
+.flex-col{
+    flex-direction: column;
+
+}
+
+.items-center{
+    align-items: center;
+}
+

@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Bree+Serif&family=Montserrat&family=Mukta:wght@300;400&family=Noto+Sans:wght@500&family=Rubik:wght@500&display=swap');
+
+html,body {
+    height: 100%;
+    width: 100%;
+    font-family: 'roboto', sans-serif;
+   
+}
+
+.btn{
+    background-color: rgb(57, 30, 228);
+    min-width: 50px;
+    height: 25px;
+    color: rgb(232, 229, 243);
+    border: 1px solid rgb(73, 16, 231);
+    border-radius: 5px;
+    
+}
+
+.row{
+    margin: 6px 0;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 1px solid rgb(73, 16, 231);
+    border-radius: 5px;
+}
